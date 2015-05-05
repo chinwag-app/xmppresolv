@@ -2,6 +2,7 @@
 // Use of this source code is governed by a BSD-style
 // license that can be found in the LICENSE file.
 
+// package xmppresolv provides an HTTP API for resolving XMPP-related DNS records
 package main
 
 import (
